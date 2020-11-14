@@ -1,0 +1,5 @@
+rootProject.name = 'prosti'
+include 'movieapp'
+include 'movieapp-core'
+include 'movieapp-web'
+
